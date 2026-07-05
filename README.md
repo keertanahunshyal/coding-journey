@@ -1,32 +1,65 @@
 # 💻 Coding Journey
 
-Welcome to my coding journey!
+Welcome to my coding journey! 🚀
 
-## 📚 Subjects
+This repository documents my progress as I learn programming, strengthen my problem-solving skills, and build real-world projects.
+
+---
+
+## 📚 Technologies
 
 - C Programming
 - Data Structures
 - Core Java
 
+---
+
 ## 🎯 Goals
 
-- Practice coding every day
-- Improve problem-solving skills
-- Stay consistent on GitHub
-- Build projects after mastering the basics
-
-## 📅 Progress
-
-| Subject | Status |
-|---------|--------|
-| C Programming | 🔄 In Progress |
-| Data Structures | 🔄 In Progress |
-| Core Java | 🔄 In Progress |
+- Build a strong foundation in programming
+- Practice Data Structures and Algorithms
+- Master Core Java concepts
+- Build real-world projects
+- Maintain consistency on GitHub
+- Prepare for internships and placements
 
 ---
 
-### Daily Learning Log
+## 📂 Repository Structure
 
-I will upload my daily coding practice, concepts, and projects here as I continue my learning journey.
+```
+coding-journey/
+│
+├── C Programming/
+├── Data Structures/
+├── Core Java/
+└── Projects/
+```
 
-> "Consistency is the key to success."
+---
+
+## 🚀 Projects
+
+| Project | Language | Status |
+|---------|----------|--------|
+| Student Record Management System | C | 🔄 Coming Soon |
+| Library Management System | C | ⏳ Planned |
+| Student Management System | Java | ⏳ Planned |
+
+---
+
+## 📈 Learning Progress
+
+- 🔄 C Programming
+- 🔄 Data Structures
+- 🔄 Core Java
+
+---
+
+## 🤝 About This Repository
+
+Every project in this repository is built step by step. Instead of only solving individual programs, I focus on understanding concepts by applying them in real projects.
+
+---
+
+⭐ *"Consistency beats perfection. One project at a time."*
